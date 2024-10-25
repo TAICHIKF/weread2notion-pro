@@ -6,6 +6,13 @@
 预览效果：[https://malinkang.notion.site/malinkang/534a7684b30e4a879269313f437f2185](https://malinkang.notion.site/9a311b7413b74c8788752249edd0b256?pvs=25)
 
 
+WeRead2Notion-Pro强大的图书管理系统：
+https://mp.weixin.qq.com/s/Wif_pyb5L3WlLLlj7iIPYw
+
+授权浏览器打开 
+https://api.notion.com/v1/oauth/authorize?client_id=f86ce456-f9cb-4cd5-8e4b-07bd9e18a8f8&response_type=code&owner=user&redirect_uri=https%3A%2F%2Fnotion-auth.malinkang.com%2Fweread2notionpro-oauth-callback
+
+
 ## 使用
 
 > [!IMPORTANT]  
